@@ -1,0 +1,7 @@
+executable            = run.sh
+arguments             = $(ProcId) 2000000 
+output                = output/run.$(ClusterId).$(ProcId).out
+error                 = error/run.$(ClusterId).$(ProcId).err
+log                   = log/run.$(ClusterId).log
++JobFlavour = "workday"
+queue			3

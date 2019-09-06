@@ -1,0 +1,14 @@
+executable                      = run.sh
+arguments                       = $(ProcId) 2000000
+output                          = condor-logs/run.$(ClusterId).$(ProcId).out
+error                           = condor-logs/run.$(ClusterId).$(ProcId).err
+log                             = condor-logs/run.$(ClusterId).log
++JobFlavour                     = "tomorrow"
+
+should_transfer_files           = YES
+transfer_input_files            = ./src/
+
+when_to_transfer_output         = ON_EXIT
+
+
+queue                           3

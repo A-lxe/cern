@@ -1,0 +1,17 @@
+Max events: 1000000
+Output file: out/results-singlemu_306135_1000000-events.root
+Input files: 
+	data/NTuple_SingleMuon_FlatNtuple_Run_306135_2018_03_02_SingleMu.root
+Lumi Info files: 
+	lumi_info/LumiInfo_306135.csv
+	lumi_info/LumiInfo_306154.csv
+	lumi_info/LumiInfo_306092.csv
+	lumi_info/LumiInfo_316995.csv
+	lumi_info/LumiInfo_306091.csv
+	lumi_info/LumiInfo_317661.csv
+
+Processed 0 events
+Processed 1000 events
+Processed 2000 events
+Processed 3000 events
+Processed 4000 events

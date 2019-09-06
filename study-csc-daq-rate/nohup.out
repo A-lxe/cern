@@ -1,0 +1,38 @@
+Max events: 25000
+Output file: out/results-zmu_316995_25000-events.root
+Input files: 
+	data/EMTF_ZMu_NTuple_316995_simLCT_test.root
+Lumi Info files: 
+	lumi_info/LumiInfo_306135.csv
+	lumi_info/LumiInfo_306154.csv
+	lumi_info/LumiInfo_306092.csv
+	lumi_info/LumiInfo_316995.csv
+	lumi_info/LumiInfo_306091.csv
+	lumi_info/LumiInfo_317661.csv
+
+Processed 0 events
+Processed 1000 events
+Processed 2000 events
+Processed 3000 events
+Processed 4000 events
+Processed 5000 events
+Processed 6000 events
+Processed 7000 events
+Processed 8000 events
+Processed 9000 events
+Processed 10000 events
+Processed 11000 events
+Processed 12000 events
+Processed 13000 events
+Processed 14000 events
+Processed 15000 events
+Processed 16000 events
+Processed 17000 events
+Processed 18000 events
+Processed 19000 events
+Processed 20000 events
+Processed 21000 events
+Processed 22000 events
+Processed 23000 events
+Processed 24000 events
+Processed 25000 events

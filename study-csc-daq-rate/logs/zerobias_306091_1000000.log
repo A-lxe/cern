@@ -1,0 +1,21 @@
+Max events: 1000000
+Output file: out/results-zerobias_306091_1000000-events.root
+Input files: 
+	data/NTuple_ZeroBias1_FlatNtuple_Run_306091_2018_03_02_ZB1.root
+Lumi Info files: 
+	lumi_info/LumiInfo_306135.csv
+	lumi_info/LumiInfo_306154.csv
+	lumi_info/LumiInfo_306092.csv
+	lumi_info/LumiInfo_316995.csv
+	lumi_info/LumiInfo_306091.csv
+	lumi_info/LumiInfo_317661.csv
+
+Processed 0 events
+Processed 1000 events
+Processed 2000 events
+Processed 3000 events
+Processed 4000 events
+Processed 5000 events
+Processed 6000 events
+Processed 7000 events
+Processed 8000 events
